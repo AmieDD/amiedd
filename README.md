@@ -18,6 +18,7 @@
   
 - 😄 Pronouns: she/her
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=amiedd&show_icons=true)
 
 <!--
 **AmieDD/amiedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
