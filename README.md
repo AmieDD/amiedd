@@ -1,6 +1,6 @@
 ### Howdy 👋 I'm Amie
 
-- 	:unicorn: I’m currently working on high compute simulation, hacking thing, LEGO, cosplay, fabric simulation, game development, NFTs, 3D Printing, PCBs and electronics
+- 	:unicorn: I’m currently working on high compute simulation, hacking thing, LEGO, cosplay, fabric simulation, game development, simulation rendering, 3D Printing, PCBs and electronics
 	
 [![](https://media.giphy.com/media/kcT4DQQ877sxw0TckZ/giphy.gif)]
 
